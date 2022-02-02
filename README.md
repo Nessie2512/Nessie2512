@@ -5,7 +5,7 @@
 
 - 🔥  Web Developer & focused on programming to change people life
 
-- 🔭 I’m currently working on [Archpriject App]
+- 🔭 I’m currently working on [Archproject App]
 - 🔭 I’m currently working at [ArchProject lda]
 
 - 👨‍💻 All of my projects are available at [Nessie2512](https://github.com/Nessie2512)
