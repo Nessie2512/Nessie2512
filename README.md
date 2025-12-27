@@ -4,7 +4,6 @@
 - 🔭 Atualmente estou trabalhando com **| Javascript| Typescript| Node Js| Nestjs | C++ | C  | Docker | AWS**
 - 🌱 Estou aprendendo **JAVA | SpringBoot**
 - 👯 Procuro elaborar projetos: **Escalável | Testável | Manutenível | legível**
-- 📫 Como me encontrar: **António Cristóvão**
 
 
 ### 🛠 Tech Stack
@@ -20,8 +19,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api?username=Nessie2512&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterhst-pujas-projects.vercel.app/api/top-langs/?username=Nessie2512&layout=compact&langs_count=7&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nessie2512&theme=tokyonight" />
 </p>
 
 
