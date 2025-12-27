@@ -30,14 +30,6 @@
   </p>
 </div>
 
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nessie2512&theme=tokyonight" />
-</p>
-
-
 ### 🤝 Conecte-se comigo
 <p align="left">
 <a href="[https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/ant%C3%B3nio-crist%C3%B3v%C3%A3o-537531169/)" target="blank">
