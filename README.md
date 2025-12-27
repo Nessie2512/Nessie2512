@@ -5,9 +5,6 @@
 - 🌱 Estou aprendendo **JAVA | SpringBoot**
 - 👯 Procuro elaborar projetos: **Escalável | Testável | Manutenível | legível**
 
-
-### 🛠 Tech Stack
-
 <div align="center">
   <h3> 🚀 Minha Stack Tecnológica </h3>
 
